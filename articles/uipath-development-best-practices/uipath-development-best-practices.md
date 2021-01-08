@@ -1,7 +1,3 @@
-layout: page
-title: "UiPath Development Best Practices"
-permalink: /articles-uipath-development-best-practices/
-
 # Table of Contents
 1. INTRODUCTION
   * 1.1. Motivation
