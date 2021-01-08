@@ -4,7 +4,12 @@ ABeam Consulting Ltd., a global consulting firm headquartered in Tokyo, provides
 
 ABeam serves over 700 clients with 6,000 consultants in 36 countries across Asia, The Americas, and Europe.
 
-Social
-LinkedIn: https://www.linkedin.com/showcase/abeam-consulting-usa-digital-transformation
-Instagram: https://www.instagram.com/abeamusa/?hl=en
-Twitter: https://twitter.com/abeamusa?lang=en
+### Social
+* LinkedIn: https://www.linkedin.com/showcase/abeam-consulting-usa-digital-transformation
+* Instagram: https://www.instagram.com/abeamusa/?hl=en
+* Twitter: https://twitter.com/abeamusa?lang=en
+
+### Contributing
+If you would like to contribute to an article, feel free to make a pull request or create a new issue on GitHub.
+
+## UiPath
