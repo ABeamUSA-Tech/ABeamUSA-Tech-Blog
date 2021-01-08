@@ -13,4 +13,4 @@ ABeam serves over 700 clients with 6,000 consultants in 36 countries across Asia
 If you would like to contribute to an article, feel free to make a pull request or create a new issue on GitHub.
 
 ## UiPath
-* [UiPath Development Best Practices](/articles/uipath-development-best-practices.md)
+* [UiPath Development Best Practices](/articles/uipath-development-best-practices/uipath-development-best-practices.md)
